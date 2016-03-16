@@ -1,0 +1,28 @@
+name: ALXNDR
+favicon: null
+layout_spectrum: 0.509838440688327
+typography_spectrum: 0.4483990909066051
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6980601393152028
+  lightness: 0.12861248035915196
+  saturation: 0.8694281070493162
+  rhythmicContrast: 0.5929266531020403
+purpose: []
