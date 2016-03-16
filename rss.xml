@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[ALXNDR]]></title>
         <description><![CDATA[ALXNDR]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alxndr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 22:12:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 22:33:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alxndr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <link>undefined619017c7-6e46-4c81-9b3c-67a78996debb/index.html</link>
+            <title><![CDATA[WEDDING]]></title>
+            <description><![CDATA[<h1>WEDDING</h1>]]></description>
+            <link>https://thegrid.ai/alxndr/619017c7-6e46-4c81-9b3c-67a78996debb/index.html</link>
             <guid isPermaLink="false">619017c7-6e46-4c81-9b3c-67a78996debb</guid>
-            <pubDate>Wed, 16 Mar 2016 22:12:01 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2016 22:33:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
